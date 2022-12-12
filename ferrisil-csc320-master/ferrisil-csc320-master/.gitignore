@@ -1,0 +1,8 @@
+/project-1-eliza/bot/credentials.py
+/project-1-eliza/bot/__pycache__/*
+/project-1-eliza/__pycache__/*
+/project-1-eliza/bot/traveller.py
+/project-1-eliza/bot/socketBridge.py
+/project-1-eliza/Dockerfile
+
+/project-3-astar/__pycache__/*
