@@ -82,7 +82,7 @@ The aim of this project was to implement a chatbot in the likeness of ELIZA usin
 
 This is a very *bare bones* implementation of randomly selecting responses and formatting them to sound as such. ( The original ELIZA used a similar functionality to format random responses to sound more natural ).
 
-[ELIZA Project](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/eliza)
+[ELIZA Project](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/eliza)
 
 # 
 
@@ -98,7 +98,7 @@ In Chapter 3 of Artificial Intelligence: A Modern Approach by Russel and Norvig,
 
 Here, the project's goal is to formulate a new problem so that state space search can be used. I've also taken the liberty of recording all of the unique states that have been visited in a dictionary, and only adding unvisited states to the search queue so as to improve the efficiency of the state space search.
 
-[State Space Search Project](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/statespacesearch)
+[State Space Search Project](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/statespacesearch)
 
 <br>
 
@@ -106,7 +106,7 @@ Here, the project's goal is to formulate a new problem so that state space searc
 
 The goal of this project was to apply [A* search](https://brilliant.org/wiki/a-star-search/) to the eight puzzle problem. The eight puzzle consists of a three by three board with eight numbered tiles and a blank space. A tile adjacent to the blank space can slide into the space. The object is to figure out the steps needed to get from one configuration of the tiles to another.
 
-[A* Search Project](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/astar)
+[A* Search Project](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/astar)
 
 <br>
 
@@ -129,7 +129,7 @@ I also implemented a randomizer that chooses randomly between minimax nodes of t
 
 I deterimined which features were most effective as a result of copious trial and error, eventually looping back to the fundamentals with Russel and Norvigs description of Alpha Beta Minimax.
 
-[Konane Minimax Project](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/konane)
+[Konane Minimax Project](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/konane)
 
 <br>
 
@@ -147,7 +147,7 @@ There's deliberately no starter code, but your programs must be written in pytho
 
 The goal of this project was to implement artificial neural networks which is trained by utilizing back propogation.
 
-[Artificial Neural Networks](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/artificialneuralnetworks)
+[Artificial Neural Networks](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/artificialneuralnetworks)
 
 <br>
 
@@ -172,4 +172,4 @@ There are several variations on the Artificial Neural Network, which typically i
 
 This final project involved an attempt to classify MNIST data using an Artificial Neural Network.
 
-[Teaching Neural Nets to read Handwriting](https://github.com/LeonardoFerrisi/artificial-intelligence/projects/handwriting)
+[Teaching Neural Nets to read Handwriting](https://github.com/LeonardoFerrisi/artificial-intelligence/tree/main/projects/handwriting)
