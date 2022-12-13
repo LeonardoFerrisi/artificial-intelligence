@@ -14,7 +14,7 @@
     <li>
         <a href="#projects">Projects</a>
         <ul>
-            <li><a href="#**Conversational Agents - Origins of AI**">Converstational Agents</a></li>
+            <li><a href="#conversational agents">Converstational Agents</a></li>
             <li><a href="#Searching with AI">Searching with AI</a></li>
             <ul>
                 <li><a href="# **State Space Search**">State Space Search</a></li>
