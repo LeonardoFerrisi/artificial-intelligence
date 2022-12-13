@@ -14,20 +14,20 @@
     <li>
         <a href="#projects">Projects</a>
         <ul>
-            <li><a href="#conversational agents">Converstational Agents</a></li>
-            <li><a href="#Searching with AI">Searching with AI</a></li>
+            <li><a href="#conversational-agents">Converstational Agents</a></li>
+            <li><a href="#searching-with-ai">Searching with AI</a></li>
             <ul>
-                <li><a href="# **State Space Search**">State Space Search</a></li>
-                <li><a href="# **A - Star Search**">A* Search</a></li>
+                <li><a href="#state-space-search">State Space Search</a></li>
+                <li><a href="#a---star-search">A* Search</a></li>
             </ul>
-            <li><a href="#Game - Playing Artificial Intelligence">Game - Playing AI<a></li>
+            <li><a href="#game---playing-artificial-intelligence">Game - Playing AI<a></li>
             <ul>
-                <li><a href="# **Konane (Hawian Checkers) using Alpha - Beta Minimax Search**">Alpha Beta Minimax with Konane</a></li>
+                <li><a href="#konane-hawian-checkers-using-alpha---beta-minimax-search">Alpha Beta Minimax with Konane</a></li>
             </ul>
-            <li><a href="# **Genetic Algorithms**">Genetic Algorithms</a></li>
-            <li><a href="# **Artificial Neural Networks**">Artificial Neural Networks</a></li>
-            <li><a href="# **Reinforcement Learning**">Reinforcement Learning</a></li>
-            <li><a href="# **Classifying Handwriting with Neural Networks**">Training AI to read handwriting</a></li>
+            <li><a href="#genetic-algorithms">Genetic Algorithms</a></li>
+            <li><a href="#artificial-neural-networks">Artificial Neural Networks</a></li>
+            <li><a href="#reinforcement-network">Reinforcement Learning</a></li>
+            <li><a href="#classifying-handwriting-with-neural-networks">Training AI to read handwriting</a></li>
         </ul>
     </li>
     <li>
