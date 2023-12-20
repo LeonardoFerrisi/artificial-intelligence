@@ -45,34 +45,7 @@
 
 <br>
 
-# 
-
-### About
-
-    some text
-
-### Getting Started
-
-    some text
-
-#### Prerequisites
-
-    some text
-
-#### Setup
-
-    some text
-
-### Usage
-
-    some text
-
-
-#
-
-## Projects
-
-#
+  NOTE: This documentation is still under construction
 
 ### **Conversational Agents**
 
